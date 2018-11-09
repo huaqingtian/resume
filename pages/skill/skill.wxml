@@ -1,0 +1,94 @@
+
+<view class='skill_container'>
+  <view class='skill_box'>
+    <view class='skill_img'>
+      <image src='../../images/html5.jpg'></image>
+    </view>
+    <view class='skill_text'>
+      <view class='skill_topic'>
+        <text>html5</text>
+      </view>
+      <view class='skill_des'>
+        <text>万维网的核心语言</text>
+      </view>
+    </view>
+  </view>
+  <view class='skill_box'>
+    <view class='skill_img'>
+      <image src='../../images/html5.jpg'></image>
+    </view>
+    <view class='skill_text'>
+      <view class='skill_topic'>
+        <text>html5</text>
+      </view>
+      <view class='skill_des'>
+        <text>万维网的核心语言</text>
+      </view>
+    </view>
+  </view>
+  <view class='skill_box'>
+    <view class='skill_img'>
+      <image src='../../images/html5.jpg'></image>
+    </view>
+    <view class='skill_text'>
+      <view class='skill_topic'>
+        <text>html5</text>
+      </view>
+      <view class='skill_des'>
+        <text>万维网的核心语言</text>
+      </view>
+    </view>
+  </view>
+  <view class='skill_box'>
+    <view class='skill_img'>
+      <image src='../../images/html5.jpg'></image>
+    </view>
+    <view class='skill_text'>
+      <view class='skill_topic'>
+        <text>html5</text>
+      </view>
+      <view class='skill_des'>
+        <text>万维网的核心语言</text>
+      </view>
+    </view>
+  </view>
+  <view class='skill_box'>
+    <view class='skill_img'>
+      <image src='../../images/html5.jpg'></image>
+    </view>
+    <view class='skill_text'>
+      <view class='skill_topic'>
+        <text>html5</text>
+      </view>
+      <view class='skill_des'>
+        <text>万维网的核心语言</text>
+      </view>
+    </view>
+  </view>
+  <view class='skill_box'>
+    <view class='skill_img'>
+      <image src='../../images/html5.jpg'></image>
+    </view>
+    <view class='skill_text'>
+      <view class='skill_topic'>
+        <text>html5</text>
+      </view>
+      <view class='skill_des'>
+        <text>万维网的核心语言</text>
+      </view>
+    </view>
+  </view>
+  <view class='skill_box'>
+    <view class='skill_img'>
+      <image src='../../images/html5.jpg'></image>
+    </view>
+    <view class='skill_text'>
+      <view class='skill_topic'>
+        <text>html5</text>
+      </view>
+      <view class='skill_des'>
+        <text>万维网的核心语言</text>
+      </view>
+    </view>
+  </view>
+</view>

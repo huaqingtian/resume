@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/skill/skill",
+    "pages/project/project",
+    "pages/experience/experience",
+    "pages/me/me",    
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "resume",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "selectedColor": "#FC6164",
+    "list": [
+      {
+        "pagePath": "pages/skill/skill",
+        "text": "技能",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home1.png"
+      },
+      {
+        "pagePath": "pages/project/project",
+        "text": "项目",
+        "iconPath": "images/icon.png",
+        "selectedIconPath": "images/icon-HL.png"
+      },
+      {
+        "pagePath": "pages/experience/experience",
+        "text": "经验",
+        "iconPath": "images/about1.png",
+        "selectedIconPath": "images/about2.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "images/me.png",
+        "selectedIconPath": "images/me1.png"
+      }
+    ]
+  }
+}

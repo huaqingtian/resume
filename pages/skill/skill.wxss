@@ -1,0 +1,34 @@
+.skill_container{
+  width:100%;
+  height:auto;
+  display: flex;
+  flex-direction: column;
+}
+.skill_box{
+  width:100%;
+  height:140rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-bottom:1px solid #eee;
+}
+.skill_img{
+  width:100rpx;
+  height:100rpx;
+  margin-left:30rpx;
+}
+.skill_img image{
+  width:100rpx;
+  height:100rpx;
+}
+.skill_text{
+  margin-left:30rpx;
+}
+.skill_topic{
+  font-size:17px;
+  font-weight: 700;
+}
+.skill_des{
+  font-size:15px;
+  color:#999;
+}
